@@ -1,7 +1,6 @@
 # photonize
 
-Event-level analysis of DNA-PAINT data recorded with a wide-field 
-time-correlated single photon counting camera (LINCam, Photonscore). 
+Event-level analysis for DNA-PAINT data recorded with the LINCam (Photonscore.de). 
 The pipeline links single-molecule localizations into binding events, 
 retrieves the raw photons of each event, and estimates for every event:
 
@@ -100,7 +99,10 @@ printed.
 
 ## Citation
 
+This code was developed in the Simoncelli lab by Robert Hollmann (rahollmann137@gmail.com) and Alessia Gentili
+
 If you use this code, please cite: [].
+
 
 ## License
 
