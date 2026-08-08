@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# tooling caches
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# data / pipeline outputs (never commit data files)
+*.hdf5
+*.tif
+*.tiff

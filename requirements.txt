@@ -1,0 +1,8 @@
+numpy
+pandas
+tables
+h5py
+scipy
+numba
+ruptures
+tqdm
