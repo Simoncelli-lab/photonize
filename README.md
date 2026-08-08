@@ -1,9 +1,9 @@
 # photonize
 
-Event-level analysis of single-photon DNA-PAINT data recorded on an
-event-based detector (LINCam, Photonscore). The pipeline links single-molecule
-localizations into binding events, retrieves the raw photons of each event,
-and estimates for every event:
+Event-level analysis of DNA-PAINT data recorded with a wide-field 
+time-correlated single photon counting camera (LINCam, Photonscore). 
+The pipeline links single-molecule localizations into binding events, 
+retrieves the raw photons of each event, and estimates for every event:
 
 - its **position**, as the center of mass of the photon coordinates, with the
   standard error of the mean reported as the localization precision
