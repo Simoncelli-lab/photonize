@@ -99,7 +99,7 @@ printed.
 
 ## Citation
 
-This code was developed in the Simoncelli lab by Robert Hollmann (rahollmann137@gmail.com) and Alessia Gentili
+This code was developed in the Simoncelli lab by Robert Hollmann (rahollmann137@gmail.com) and Alessia Gentili (alessia.gentili.18@ucl.ac.uk).
 
 If you use this code, please cite: [].
 
